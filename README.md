@@ -48,3 +48,10 @@ Through this experience I have improved my self-awareness and gained insight int
 - Email: 230700659@mycput.ac.za
 - Email: tebogodipudi18@gmail.com
 - Contacts: 0846120139
+
+  ## My Resume
+[Tebogo Resume11 (2).pdf](https://github.com/user-attachments/files/26357044/Tebogo.Resume11.2.pdf)
+---
+## Mock Interview Video
+[Mock interview video (1).zip](https://github.com/user-attachments/files/26357271/Mock.interview.video.1.zip)
+
