@@ -123,5 +123,10 @@ Tel: 011 410 1000
 Ward 6 Councillor, Kagiso Ward 6
 ---
 ## Mock Interview Video
-[Mock interview video (1).zip](https://github.com/user-attachments/files/26357271/Mock.interview.video.1.zip)
+<div align="center">
+  <video width="600" controls preload="metadata">
+    <source src="mock-interview.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
