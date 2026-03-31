@@ -50,7 +50,77 @@ Through this experience I have improved my self-awareness and gained insight int
 - Contacts: 0846120139
 
   ## My Resume
-[Tebogo Resume11 (2).pdf](https://github.com/user-attachments/files/26357044/Tebogo.Resume11.2.pdf)
+# Zacharia Dipudi
+ 
+084 612 0139 | 230700659@mycput.ac.za | [github.com/zacharia-dipudi](https://github.com/zacharia-dipudi)
+ 
+---
+ 
+## Career Objectives
+ 
+Motivated and detail-oriented ICT Application Development student seeking an internship or graduate program to gain hands-on industry experience. Eager to apply software development, data analysis, and problem-solving skills while learning from industry professionals and contributing to real-world technology solutions.
+ 
+---
+ 
+## Education
+ 
+### Diploma in ICT: Application Development
+**Cape Peninsula University of Technology (CPUT)**
+*January 2024 – Present*
+ 
+- Developing practical skills in application development, databases, and data analysis
+- Exposure to programming, troubleshooting, and system problem-solving
+ 
+### Higher Certificate in ICT
+**Cape Peninsula University of Technology (CPUT)**
+*January 2023 – December 2023*
+ 
+- Built a strong foundation in ICT principles, programming fundamentals, and data handling
+ 
+### National Senior Certificate (Grade 12)
+**Mosupatsela Secondary School**
+*Completed: 2015*
+ 
+---
+ 
+## Technical Skills
+ 
+### Programming & Development
+- Python, Java, JavaScript
+ 
+### Web Technologies
+- React – Built a responsive e-commerce web application *(Git)*
+- HTML, CSS
+ 
+### Database
+- SQL
+ 
+### Data & Analytics
+- Microsoft Excel *(Advanced, including Pivot Tables)*
+- Power BI, Data Visualization
+ 
+---
+ 
+## Academic & Practical Skills
+ 
+- Application Development Fundamentals
+- Troubleshooting and Technical Problem Solving
+- Database Design and SQL Queries
+- Web Application Development
+- Debugging and Testing Code
+- Data Analysis and Reporting
+- Logical and Analytical Thinking
+ 
+---
+ 
+## References
+ 
+**Mr. Phatswane**
+Principal, Mosupatsela Secondary School
+Tel: 011 410 1000
+ 
+**Mr. Letlhogonolo Lebewana**
+Ward 6 Councillor, Kagiso Ward 6
 ---
 ## Mock Interview Video
 [Mock interview video (1).zip](https://github.com/user-attachments/files/26357271/Mock.interview.video.1.zip)
