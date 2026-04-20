@@ -36,9 +36,9 @@ and exploring different areas of technology, including web development and data 
 
 ##  Reflection
 
-I had to transform my résumé into Markdown so that I could publish it on GitHub. I had just a little bit of experience working with Markdown. I researched how to use and format text with Markdown so that I could format my résumé in a clear and professional manner. I then used my research on Markdown to format my résumé to fit within GitHub. I also tried numerous different types of formatting to find the one that made my résumé easy to read.
+I had to transform my résumé into Markdown so that I could publish it on GitHub. I had just a little bit of experience working with Markdown. I researched how to use and format text with Markdown so that I could format my resume in a clear and professional manner. I then used my research on Markdown to format my résumé to fit within GitHub. I also tried numerous different types of formatting to find the one that made my résumé easy to read.
 
- As a result of this project, I was able to create a well-organized résumé using Markdown, which provided me with technical knowledge in creating developer-friendly résumés, along with knowledge of how to present information clearly and effectively.
+ As a result of this project, I was able to create a well-organized résumé using Markdown, which provided me with technical knowledge in creating developer-friendly resumes, along with knowledge of how to present information clearly and effectively.
 
 
 ---
