@@ -36,11 +36,10 @@ and exploring different areas of technology, including web development and data 
 
 ##  Reflection
 
-Throughout this module I acquired the skills necessary to develop or maintain my own portfolio through using GitHub for version control and source code management. Initially, I did not find markdown easy to use, however, I got better with practice and learnt how to format what I write appropriately.
+I had to transform my résumé into Markdown so that I could publish it on GitHub. I had just a little bit of experience working with Markdown. I researched how to use and format text with Markdown so that I could format my résumé in a clear and professional manner. I then used my research on Markdown to format my résumé to fit within GitHub. I also tried numerous different types of formatting to find the one that made my résumé easy to read.
 
-While developing my own GitHub repositories and documenting them appropriately (for example creating readme files), I was able to relate the theory taught in class to practical applications which assisted in my ability to understand how developers present their work to others in a professional manner.
+ As a result of this project, I was able to create a well-organized résumé using Markdown, which provided me with technical knowledge in creating developer-friendly résumés, along with knowledge of how to present information clearly and effectively.
 
-Through this experience I have improved my self-awareness and gained insight into how important it is to have a mindset of continual development. Moving forward I would like to further improve my programming capabilities and take on larger programming projects than I have done historically.
 
 ---
 
