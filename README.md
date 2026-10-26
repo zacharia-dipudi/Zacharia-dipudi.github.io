@@ -129,3 +129,7 @@ Ward 6 Councillor, Kagiso Ward 6
   </video>
 </div>
 
+## Agile Project Management Portfolio
+
+- [Agile Team Charter](agile-team-charter.md)
+
