@@ -134,4 +134,5 @@ Ward 6 Councillor, Kagiso Ward 6
 ## WIL Projects Portfolio
 
 - [Agile Team Charter](agile-team-charter.md)
+   - [User Stories and Tasks](user-stories-and-tasks.md)
 
