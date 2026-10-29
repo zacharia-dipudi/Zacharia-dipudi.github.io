@@ -35,3 +35,66 @@ I learned the importance of clear navigation, understandable labels, visible cos
 ## Privacy and Accuracy
 
 Before publishing screenshots, remove or obscure personal email addresses, phone numbers, passwords, and private residential addresses. Only describe features as working when they have been tested.
+
+
+## Visual Evidence from the Application
+
+### 1. Welcome Screen
+
+The welcome screen introduces Laundry Pickup Pro and provides a clear starting point for users.
+
+![Laundry Pickup Pro welcome screen](01-welcome-screen.png)
+
+### 2. User Role Selection
+
+This screen allows users to choose between Customer, Driver, and Administrator.
+
+![User role selection screen](02-role-selection.png)
+
+### 3. Customer Registration
+
+This screen provides a form for creating a customer account.
+
+![Customer registration screen](03-registration-screen.png)
+
+### 4. Customer Login
+
+This screen provides access to existing customer accounts.
+
+![Customer login screen](04-login-screen.png)
+
+### 5. Customer Dashboard
+
+The dashboard provides access to ordering, tracking, order history, notifications, and other customer actions.
+
+![Customer dashboard](05-customer-dashboard.png)
+
+### 6. Pickup Scheduling
+
+Customers can select a pickup option and proceed through the booking stages.
+
+![Pickup scheduling screen](06-pickup-scheduling.png)
+
+### 7. Price Estimate
+
+The booking interface displays the bag quantity and an estimated service cost.
+
+![Price estimate screen](07-price-estimate.png)
+
+### 8. Booking Review
+
+Customers can review their booking details and the price breakdown before continuing.
+
+![Booking review screen](08-booking-review.png)
+
+### 9. Payment Method
+
+The interface presents Card, EFT, and Cash as payment options.
+
+![Payment method screen](09-payment-method.png)
+
+### 10. Booking Confirmation
+
+The confirmation screen displays the result of the booking process and summarises the arrangements.
+
+![Booking confirmation screen](10-booking-confirmation.png)
