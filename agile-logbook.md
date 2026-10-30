@@ -85,5 +85,5 @@ The taskboard shows how the team organised project activities into Product Backl
 
 These logbook entries record daily progress from 14 to 16 July 2026, including completed activities, planned activities, and impediments.
 
-![Agile logbook entries](12-agile-logbook.png)
+![Agile logbook entries](evidence/12-agile-logbook.png)
 
