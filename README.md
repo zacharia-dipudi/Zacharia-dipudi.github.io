@@ -136,4 +136,5 @@ Ward 6 Councillor, Kagiso Ward 6
 - [Agile Team Charter](agile-team-charter.md)
    - [User Stories and Tasks](user-stories-and-tasks.md)
     - [Product Backlog](product-backlog.md)
+      - [Sprint Backlog](sprint-backlog.md)
 
