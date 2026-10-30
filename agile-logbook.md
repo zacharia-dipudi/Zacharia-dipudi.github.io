@@ -79,7 +79,7 @@ The team used multiple sprints, allowing work to be organised into smaller stage
 
 The taskboard shows how the team organised project activities into Product Backlog, In Progress, and Completed columns. It also records the team's walkthrough and discussion of next steps.
 
-![Agile taskboard](11-agile-taskboard.png)
+![Agile taskboard](evidence/11-agile-taskboard.png)
 
 ### 12. Agile Logbook
 
