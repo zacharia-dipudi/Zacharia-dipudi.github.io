@@ -10,21 +10,93 @@
 
 This sprint backlog outlines proposed tasks for improving and reviewing the customer interface. The team should confirm the sprint dates, selected work, assignments, and completion status against its actual sprint plan.
 
-## 2. Sprint Tasks
 
-| Task ID | Task | Related Backlog Item | Priority | Status |
-|---|---|---|---|---|
-| SB01 | Review the welcome and role-selection screens | PB01, PB02 | High | To confirm |
-| SB02 | Review registration and login form layouts | PB03 | High | To confirm |
-| SB03 | Review the customer dashboard and navigation | PB04 | High | To confirm |
-| SB04 | Review the pickup scheduling steps | PB05 | High | To confirm |
-| SB05 | Check the clarity of the price estimate and charges | PB06 | High | To confirm |
-| SB06 | Review the booking summary and payment options | PB07, PB08 | High | To confirm |
-| SB07 | Review the booking confirmation screen | PB09 | High | To confirm |
-| SB08 | Capture screenshots and organise design evidence | All relevant items | Medium | To confirm |
-| SB09 | Record design issues and possible improvements | PB15 | Medium | To confirm |
+## 2. Sprint Backlog and Sprint Activities
 
-**Status note:** These are proposed sprint tasks. Update the status only after confirming what was planned and what the team actually completed.
+The Laundry Pickup Pro team used a Trello taskboard to organise and monitor project activities across 10 sprints. Each sprint contained specific tasks with assigned team members, dates, and checklist progress.
+
+### Sprint 1 – Initial Project Planning
+
+| Task | Date | Checklist |
+|---|---|---|
+| Day 1 – Problem definition | May 18 | 5/5 |
+| Day 2 – Agile team charter | May 19 | 5/5 |
+| Day 3 – Communication plan | May 20 | 5/5 |
+
+### Sprint 2 – Research and Feasibility
+
+| Task | Date | Checklist |
+|---|---|---|
+| Day 1 – Competitor analysis | May 25 | 5/5 |
+| Day 2 – Project feasibility | May 26 | 5/5 |
+| Day 3 – Project risk analysis | May 27 | 5/5 |
+
+### Sprint 3 – Project Structure and Planning
+
+| Task | Date | Checklist |
+|---|---|---|
+| Day 1 – Work Breakdown Structure (WBS) | June 1 | 9/9 |
+| Day 2 – Sprint Plans | June 2 | 5/5 |
+| Day 3 – User Stories | June 4 | 5/5 |
+
+### Sprint 4 – Project Presentation
+
+| Task | Date | Checklist |
+|---|---|---|
+| Day 1 – PowerPoint Presentation Slides | July 14 | 5/5 |
+| Day 2 – Business Overview and Problem Statement | July 15 | 5/5 |
+| Day 3 – Presentation delivery | July 16 | 5/5 |
+
+### Sprint 5 – Project Setup and Application Planning
+
+| Task | Date | Checklist |
+|---|---|---|
+| Day 1 – Trello Board Setup and Management | July 21 | 5/5 |
+| Day 2 – Application features | July 24 | 5/5 |
+| Day 3 – Low Fidelity Wireframes | July 28 | 5/5 |
+
+### Sprint 6 – Prototype Development
+
+| Task | Date | Checklist |
+|---|---|---|
+| Day 1 – Interactive Figma Prototype | July 31 | 5/5 |
+| Day 2 – Prototype Testing | August 1 | 5/5 |
+| Day 3 – Prototype Demonstration | August 2 | 5/5 |
+
+### Sprint 7 – Authentication and Security Planning
+
+| Task | Date | Checklist |
+|---|---|---|
+| Day 2 – Authentication Planning | August 5 | 5/5 |
+| Day 3 – Security Planning | August 6 | 5/5 |
+| Day 4 – Database Review and Finalisation | August 7 | 5/5 |
+
+### Sprint 8 – Screen Design
+
+| Task | Date | Checklist |
+|---|---|---|
+| Day 3 – Screen Design | August 14 | 5/5 |
+| Day 4 – Screen Design | August 17 | 5/5 |
+| Day 5 – Screen Design | August 19 | 5/5 |
+
+### Sprint 9 – Testing and Debugging
+
+| Task | Date | Checklist |
+|---|---|---|
+| Day 3 – Database Testing | August 28 | 5/5 |
+| Day 4 – Debugging | September 1 | 3/5 |
+| Day 5 – Final Testing | September 4 | 7/7 |
+
+### Sprint 10 – Final Project Activities
+
+| Task | Date | Checklist |
+|---|---|---|
+| Day 1 – Project Documentation | September 4 | 5/5 |
+| Day 2 – System Deployment | September 7 | 5/5 |
+| Day 3 – Review and Improvement | September 16 | 4/4 |
+
+
+
 
 ## 3. UI/UX Designer Responsibilities
 
@@ -66,34 +138,40 @@ At the end of the sprint, the team should review the selected tasks and record w
 
 ## 6. Reflection
 
-### Sprint Backlog Reflection
 
-The sprint board helped the team organise project activities into smaller tasks and monitor progress across multiple sprints. It also made it easier to identify completed tasks and work that still needed attention.
+## 4. Reflection
 
-The board demonstrates how the project progressed from initial planning and requirements activities towards design, prototyping, testing, documentation, and deployment.
+The sprint board helped me understand how the team divided the Laundry Pickup Pro project into smaller activities across 10 sprints. The project started with problem definition, team planning, competitor analysis, and feasibility activities before moving towards wireframes, Figma prototyping, screen design, testing, documentation, and deployment.
 
-As the UI/UX Designer, the screen design and prototype-related activities are particularly relevant to my contribution. The board also helped me understand how design work fits into the wider development process and depends on coordination with other team members.
+As the UI/UX Designer, the activities involving low-fidelity wireframes, interactive Figma prototyping, prototype testing, prototype demonstration, and screen design are particularly relevant to my role.
+
+I learned that design is an ongoing process that requires planning, testing, reviewing, and improving. The sprint board also helped the team monitor assigned activities, deadlines, and checklist progress.
+
+One important lesson was that tasks need to be monitored regularly. For example, the debugging task in Sprint 9 showed a checklist progress of 3/5, indicating that some checklist items were still outstanding in the screenshot.
+
+Overall, using the sprint board made project activities more visible and helped the team organise its work throughout the development process.
+
 
 ## 7. Evidence
-The team used a Trello-style taskboard to organise and monitor project activities across multiple sprints.
 
-The board shows Sprint 1 through Sprint 10, with tasks arranged under their respective sprint columns. Each task card displays information such as its description, due date, completion checklist, and assigned team members.
 
-### Sprint Board 1: Sprint 1–4
+The following screenshots provide evidence of the team's sprint planning and progress across the project.
 
-This screenshot shows the first four sprints. Activities include problem definition, Agile team charter, communication planning, competitor analysis, project feasibility, project risk analysis, sprint plans, user stories, and work breakdown structure.
+### Evidence 1: Sprints 1–4
 
-![Sprint Board 1](evidence/13-sprint-board-1.png)
+This screenshot shows the initial project activities, including problem definition, Agile team charter, communication planning, competitor analysis, project feasibility, risk analysis, sprint planning, user stories, work breakdown structure, and presentation activities.
 
-### Sprint Board 2: Sprint 5–9
+![Sprints 1 to 4](evidence/13-sprint-board-1.png)
 
-This screenshot shows the progression through Sprints 5 to 9. Activities include Trello board setup, application features, low-fidelity wireframes, Figma prototype work, prototype testing, authentication planning, security planning, database review, and screen design.
+### Evidence 2: Sprints 5–9
 
-![Sprint Board 2](evidence/14-sprint-board-2.png)
+This screenshot shows activities relating to Trello board management, application features, low-fidelity wireframes, interactive Figma prototyping, prototype testing, authentication planning, security planning, database review, and screen design.
 
-### Sprint Board 3: Sprint 6–10
+![Sprints 5 to 9](evidence/14-sprint-board-2.png)
 
-This screenshot provides additional evidence of the later sprints, including screen design, database testing, debugging, final testing, project documentation, system deployment, and review and improvement.
+### Evidence 3: Sprints 6–10
 
-![Sprint Board 3](evidence/15-sprint-board-3.png)
+This screenshot provides additional evidence of the later project activities, including screen design, database testing, debugging, final testing, project documentation, system deployment, and review and improvement.
+
+![Sprints 6 to 10](evidence/15-sprint-board-3.png)
 
