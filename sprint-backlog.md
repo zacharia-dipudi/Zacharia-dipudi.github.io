@@ -66,15 +66,34 @@ At the end of the sprint, the team should review the selected tasks and record w
 
 ## 6. Reflection
 
-The sprint backlog helps break larger product backlog items into smaller tasks that can be reviewed and managed during a sprint. From a UI/UX perspective, this supports a structured approach to reviewing the customer journey and identifying design improvements.
+### Sprint Backlog Reflection
 
-It is important to track progress accurately and communicate design issues to the team. The sprint review also provides an opportunity to reflect on completed work, identify outstanding tasks, and decide what should be prioritised next.
+The sprint board helped the team organise project activities into smaller tasks and monitor progress across multiple sprints. It also made it easier to identify completed tasks and work that still needed attention.
 
-This section should be updated with the actual sprint activities, challenges, and outcomes from the project rather than assumed results.
+The board demonstrates how the project progressed from initial planning and requirements activities towards design, prototyping, testing, documentation, and deployment.
+
+As the UI/UX Designer, the screen design and prototype-related activities are particularly relevant to my contribution. The board also helped me understand how design work fits into the wider development process and depends on coordination with other team members.
 
 ## 7. Evidence
+The team used a Trello-style taskboard to organise and monitor project activities across multiple sprints.
 
-- [Evidence Index and Screenshots](evidence/README.md)
-- [User Stories and Tasks](user-stories-and-tasks.md)
-- [Product Backlog](product-backlog.md)
-- [Agile Team Charter](agile-team-charter.md)
+The board shows Sprint 1 through Sprint 10, with tasks arranged under their respective sprint columns. Each task card displays information such as its description, due date, completion checklist, and assigned team members.
+
+### Sprint Board 1: Sprint 1–4
+
+This screenshot shows the first four sprints. Activities include problem definition, Agile team charter, communication planning, competitor analysis, project feasibility, project risk analysis, sprint plans, user stories, and work breakdown structure.
+
+![Sprint Board 1](evidence/13-sprint-board-1.png)
+
+### Sprint Board 2: Sprint 5–9
+
+This screenshot shows the progression through Sprints 5 to 9. Activities include Trello board setup, application features, low-fidelity wireframes, Figma prototype work, prototype testing, authentication planning, security planning, database review, and screen design.
+
+![Sprint Board 2](evidence/14-sprint-board-2.png)
+
+### Sprint Board 3: Sprint 6–10
+
+This screenshot provides additional evidence of the later sprints, including screen design, database testing, debugging, final testing, project documentation, system deployment, and review and improvement.
+
+![Sprint Board 3](evidence/15-sprint-board-3.png)
+
