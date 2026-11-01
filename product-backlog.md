@@ -11,76 +11,122 @@ The product backlog is a prioritised list of user needs, features, and improveme
 
 The backlog below is a working proposal based on the application screens and user journeys documented in this portfolio. The priorities and status should be reviewed with the project team.
 
+
+# Product Backlog
+
+## 1. Project Overview
+
+**Project:** Laundry Pickup Pro  
+**Team:** Group 3D
+
+The Product Backlog contains the tasks and activities recorded by the team for the Laundry Pickup Pro project. The team's Trello board displays a Product Backlog with 45 items.
+
+The backlog covers project planning, research, requirements, design, prototyping, testing, documentation and deployment activities.
+
 ## 2. Product Backlog Items
 
-| ID | Backlog Item | User Story | Priority | Status |
-|---|---|---|---|---|
-| PB01 | Welcome screen and onboarding | As a new user, I want a clear starting point so that I can begin using the app. | High | Evidence captured |
-| PB02 | User role selection | As a user, I want to identify my account role so that I can choose the appropriate option. | High | Evidence captured |
-| PB03 | Registration and login interface | As a customer, I want to access account forms so that I can use the app. | High | Evidence captured |
-| PB04 | Customer dashboard | As a customer, I want to find key service options so that I can navigate easily. | High | Evidence captured |
-| PB05 | Pickup scheduling interface | As a customer, I want to choose a pickup arrangement so that I can organise a laundry service. | High | Evidence captured |
-| PB06 | Price estimate display | As a customer, I want to see the estimated cost so that I can make an informed decision. | High | Evidence captured |
-| PB07 | Booking review | As a customer, I want to review my booking details so that I can check them before proceeding. | High | Evidence captured |
-| PB08 | Payment method selection | As a customer, I want to view payment options so that I can choose a suitable method. | High | Evidence captured |
-| PB09 | Booking confirmation | As a customer, I want to see booking details and a reference so that I can identify my booking. | High | Evidence captured |
-| PB10 | Order tracking | As a customer, I want to check my order status so that I can follow my laundry service. | High | To verify |
-| PB11 | Order history | As a customer, I want to review previous orders so that I can refer to past bookings. | Medium | To verify |
-| PB12 | Notifications | As a customer, I want to receive relevant updates so that I can stay informed about my orders. | Medium | To verify |
-| PB13 | Address management | As a customer, I want to manage pickup and delivery addresses so that my booking information is accurate. | Medium | To verify |
-| PB14 | Support and feedback | As a customer, I want to access support so that I can get assistance when needed. | Medium | To verify |
-| PB15 | Usability and accessibility improvements | As a user, I want readable text, clear labels, and consistent navigation so that the app is easier to use. | Medium | Improvement area |
+The following items are visible in the team's Product Backlog screenshots.
 
-**Status note:** “Evidence captured” means screenshots of the interface are available; it does not confirm that the underlying feature works fully. “To verify” means the feature still needs to be checked.
+| No. | Backlog Item | Date | Checklist Progress |
+|---|---|---|---|
+| 1 | Problem definition | May 18 | 5/5 |
+| 2 | Agile team charter | May 19 | 5/5 |
+| 3 | Communication plan | May 20 | 5/5 |
+| 4 | Conduct user research | May 21 | 5/5 |
+| 5 | Summary of findings | May 22 | 5/5 |
+| 6 | Competitor analysis | May 25 | 5/5 |
+| 7 | Project feasibility | May 26 | 5/5 |
+| 8 | Project risk analysis | May 27 | 5/5 |
+| 9 | Marketing strategy | May 28 | 5/5 |
+| 10 | Value proposition | May 29 | 5/5 |
+| 11 | Requirements document (Functional and Non-functional) | May 30 | 5/5 |
+| 12 | Work Breakdown Structure (WBS) | June 1 | 9/9 |
+| 13 | Sprint Plans | June 2 | 5/5 |
+| 14 | User Stories | June 4 | 5/5 |
+| 15 | UML Diagrams | June 8 | 5/5 |
+| 16 | Progress Report | June 9 | 5/5 |
+| 17 | PowerPoint Presentation Slides | July 14 | 5/5 |
+| 18 | Business Overview and Problem Statement | July 15 | 5/5 |
+| 19 | Presentation delivery | July 16 | 5/5 |
+| 20 | Presentation Update | July 17 | 5/5 |
+| 21 | Trello Board Setup and Management | July 21 | 5/5 |
+| 22 | Application features | July 24 | 5/5 |
+| 23 | Low Fidelity Wireframes | July 28 | 5/5 |
+| 24 | High Fidelity User Interface Design (UI/UX) | Not fully visible | Not fully visible |
+| 25 | Interactive Figma Prototype | July 31 | 5/5 |
+| 26 | Prototype Testing | August 1 | 5/5 |
+| 27 | Prototype Demonstration | August 2 | 5/5 |
 
-## 3. Prioritisation
-
-The backlog uses High and Medium priorities to indicate relative importance.
-
-- **High priority:** Core screens and steps in the customer booking journey, from accessing the application to reviewing and confirming a booking.
-- **Medium priority:** Supporting features and usability improvements that can enhance the customer experience.
-- **To be confirmed:** The final order of work should be agreed upon by the project team based on the project scope, available time, dependencies, and feedback.
-
-## 4. Acceptance Criteria
-
-The following criteria can be used when reviewing the main customer journey.
-
-### Registration and Login
-- The forms display clear labels for the required fields.
-- Password visibility controls are identifiable where provided.
-- The layout is readable and consistent.
-
-### Booking and Pricing
-- Pickup arrangements are clearly presented.
-- The customer can review the displayed booking information.
-- Individual charges and the total estimate are easy to identify.
-
-### Payment and Confirmation
-- Available payment options are clearly labelled.
-- The customer can review the displayed booking details.
-- The confirmation screen presents the booking reference and relevant information.
-
-### Order Tracking
-- The customer can identify the current order status.
-- Any displayed status information is clear and understandable.
-- The feature must be tested before it is marked complete.
 
 ## 5. UI/UX Designer's Contribution
 
-My focus as the UI/UX Designer is to help make the application clear, consistent, and easy to navigate. The backlog identifies areas where interface design supports the customer journey, including onboarding, account access, scheduling, pricing, payment selection, and booking confirmation.
+As the UI/UX Designer, the most relevant backlog activities to my role include application features, low-fidelity wireframes, high-fidelity user interface design, interactive Figma prototyping, prototype testing and prototype demonstration.
 
-The screenshots in the evidence folder document the visible interfaces. They provide a reference for reviewing the current design and identifying possible improvements. The team's implementation status and the final backlog priorities should be confirmed against the actual project work.
+These activities relate to planning the user experience, designing application screens and reviewing the prototype before further development.
 
 ## 6. Reflection
 
-Creating the product backlog helped me organise the application's user needs into manageable items and distinguish essential booking steps from supporting features. Prioritisation is important because the team has limited time and must focus on the work that delivers the most value to users.
+Reviewing the Product Backlog helped me understand how a project can be organised into smaller activities, from initial planning and research to interface design, prototyping and testing.
 
-From a UI/UX perspective, I need to consider how each feature affects the customer's experience, particularly the clarity of pricing, ease of navigation, and confidence when reviewing a booking. The backlog should remain flexible so the team can refine priorities as it tests features and receives feedback.
+I also learned that the backlog is not limited to software development tasks. It includes research, requirements, documentation, presentations and other activities needed to move the project forward.
 
-A next step is to verify the functionality of the listed features, agree on priorities with the team, and update each item's status based on actual progress.
+From my UI/UX perspective, the wireframe, interface design and Figma prototype activities are particularly important because they help turn application requirements into a design that users can understand and navigate.
 
-## 7. Related Evidence
+The Trello board made the team's activities visible and provided a way to monitor task dates, assignments and checklist progress.
 
-- [Screenshots and evidence index](evidence/README.md)
-- [User Stories and Tasks](user-stories-and-tasks.md)
-- [Agile Team Charter](agile-team-charter.md)
+
+## 3. Product Backlog Evidence
+
+The following screenshots show the team's actual Product Backlog board.
+
+### Evidence 1: Initial Planning and Research
+
+Shows problem definition, Agile team charter, communication plan, user research, summary of findings and competitor analysis.
+
+![Product Backlog 1](evidence/16-product-backlog-1.png)
+
+### Evidence 2: Feasibility and Project Analysis
+
+Shows project feasibility, project risk analysis and marketing strategy.
+
+![Product Backlog 2](evidence/17-product-backlog-2.png)
+
+### Evidence 3: Requirements and Project Structure
+
+Shows the value proposition, functional and non-functional requirements document, and Work Breakdown Structure.
+
+![Product Backlog 3](evidence/18-product-backlog-3.png)
+
+### Evidence 4: Sprint Planning and Modelling
+
+Shows sprint plans, user stories and UML diagrams.
+
+![Product Backlog 4](evidence/19-product-backlog-4.png)
+
+### Evidence 5: Progress and Presentation Preparation
+
+Shows the progress report and PowerPoint presentation slides.
+
+![Product Backlog 5](evidence/20-product-backlog-5.png)
+
+### Evidence 6: Presentation and Board Management
+
+Shows presentation delivery, presentation updates, and Trello board setup and management.
+
+![Product Backlog 6](evidence/21-product-backlog-6.png)
+
+### Evidence 7: Application Planning and Wireframes
+
+Shows application features, low-fidelity wireframes and part of the high-fidelity UI/UX design task.
+
+![Product Backlog 7](evidence/22-product-backlog-7.png)
+
+### Evidence 8: Prototype Development and Testing
+
+Shows the interactive Figma prototype, prototype testing and prototype demonstration.
+
+![Product Backlog 8](evidence/23-product-backlog-8.png)
+
+
+
+
