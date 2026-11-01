@@ -234,7 +234,7 @@ Before publishing screenshots, remove or obscure personal email addresses, phone
 
 The welcome screen introduces Laundry Pickup Pro and provides a clear starting point for users.
 
-![Laundry Pickup Pro welcome screen](01-welcome-screen.png)
+![Laundry Pickup Pro welcome screen](evidence/01-welcome-screen.png)
 
 ### 2. User Role Selection
 
@@ -246,46 +246,46 @@ This screen allows users to choose between Customer, Driver, and Administrator.
 
 This screen provides a form for creating a customer account.
 
-![Customer registration screen](03-registration-screen.png)
+![Customer registration screen](evidence/03-registration-screen.png)
 
 ### 4. Customer Login
 
 This screen provides access to existing customer accounts.
 
-![Customer login screen](04-login-screen.png)
+![Customer login screen](evidence/04-login-screen.png)
 
 ### 5. Customer Dashboard
 
 The dashboard provides access to ordering, tracking, order history, notifications, and other customer actions.
 
-![Customer dashboard](05-customer-dashboard.png)
+![Customer dashboard](evidence/05-customer-dashboard.png)
 
 ### 6. Pickup Scheduling
 
 Customers can select a pickup option and proceed through the booking stages.
 
-![Pickup scheduling screen](06-pickup-scheduling.png)
+![Pickup scheduling screen](evidence/06-pickup-scheduling.png)
 
 ### 7. Price Estimate
 
 The booking interface displays the bag quantity and an estimated service cost.
 
-![Price estimate screen](07-price-estimate.png)
+![Price estimate screen](evidence/07-price-estimate.png)
 
 ### 8. Booking Review
 
 Customers can review their booking details and the price breakdown before continuing.
 
-![Booking review screen](08-booking-review.png)
+![Booking review screen](evidence/08-booking-review.png)
 
 ### 9. Payment Method
 
 The interface presents Card, EFT, and Cash as payment options.
 
-![Payment method screen](09-payment-method.png)
+![Payment method screen](evidence/09-payment-method.png)
 
 ### 10. Booking Confirmation
 
 The confirmation screen displays the result of the booking process and summarises the arrangements.
 
-![Booking confirmation screen](10-booking-confirmation.png)
+![Booking confirmation screen](evidence/10-booking-confirmation.png)
