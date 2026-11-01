@@ -177,17 +177,19 @@ The following tasks describe the design areas represented in the screenshots. Th
 | Design the confirmation screen | Present the booking reference and booking details clearly. |
 | Review consistency across screens | Maintain consistent layouts, labels, spacing, and visual elements. |
 
-## 3. Reflection
+## Personal Contribution
 
-Creating user stories helped me understand the application from the customer's perspective. Each story describes a user need and explains why that need matters. The related tasks break the user journey into smaller design activities.
+My assigned role in the team charter was UI/UX Designer. These screenshots can help demonstrate my understanding of interface layout, navigation, visual hierarchy, and the customer booking journey.
 
-As the UI/UX Designer, my focus is on making the interface clear, consistent, and easy to navigate. The screenshots provide visual evidence of the screens available in the current application. They also help show how the interface guides a customer from the welcome screen through the booking process.
+The screenshots show the interfaces presented by the application. They do not independently prove which parts I personally implemented, how the team planned its sprints, or whether every feature works correctly.
 
-One area for further improvement is to review the interface with users and gather feedback about navigation, readability, and the clarity of booking information. The user stories and tasks can then be refined based on that feedback.
+## Reflection
+
+Reviewing the application screens helps me understand how interface design supports a customer's journey. The booking process presents information in stages, allowing users to select pickup details, review the estimated cost, choose a payment method, and view a confirmation.
+
+I learned the importance of clear navigation, understandable labels, visible costs, and feedback after a user action. I can use these observations to evaluate the design and identify areas for improvement. I will also connect this visual evidence to the relevant user stories and genuine project planning records in the rest of my portfolio.
 
 ## 4. Evidence
-
-The screenshots supporting these user stories are available in the [evidence folder](evidence/README.md).
 
 # Laundry Pickup Pro — Portfolio Evidence
 
@@ -211,22 +213,6 @@ The screenshots document the customer journey, from opening the application to c
 | `10-booking-confirmation.png` | Successful booking confirmation | User Stories and Tasks; user feedback |
 | `11-order-tracking.png` | To be added after capturing the Track Order screen | Order tracking |
 
-## Personal Contribution
-
-My assigned role in the team charter was UI/UX Designer. These screenshots can help demonstrate my understanding of interface layout, navigation, visual hierarchy, and the customer booking journey.
-
-The screenshots show the interfaces presented by the application. They do not independently prove which parts I personally implemented, how the team planned its sprints, or whether every feature works correctly.
-
-## Reflection
-
-Reviewing the application screens helps me understand how interface design supports a customer's journey. The booking process presents information in stages, allowing users to select pickup details, review the estimated cost, choose a payment method, and view a confirmation.
-
-I learned the importance of clear navigation, understandable labels, visible costs, and feedback after a user action. I can use these observations to evaluate the design and identify areas for improvement. I will also connect this visual evidence to the relevant user stories and genuine project planning records in the rest of my portfolio.
-
-## Privacy and Accuracy
-
-Before publishing screenshots, remove or obscure personal email addresses, phone numbers, passwords, and private residential addresses. Only describe features as working when they have been tested.
-
 
 ## Visual Evidence from the Application
 
@@ -240,7 +226,7 @@ The welcome screen introduces Laundry Pickup Pro and provides a clear starting p
 
 This screen allows users to choose between Customer, Driver, and Administrator.
 
-![Laundry Pickup Pro welcome screen](evidence/01-welcome-screen.png)
+![User role selection screen](evidence/02-role-selection.png)
 
 ### 3. Customer Registration
 
