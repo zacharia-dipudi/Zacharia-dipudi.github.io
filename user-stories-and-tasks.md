@@ -240,7 +240,7 @@ The welcome screen introduces Laundry Pickup Pro and provides a clear starting p
 
 This screen allows users to choose between Customer, Driver, and Administrator.
 
-![Laundry Pickup Pro welcome screen](01-welcome-screen.png)
+![Laundry Pickup Pro welcome screen](evidence/01-welcome-screen.png)
 
 ### 3. Customer Registration
 
