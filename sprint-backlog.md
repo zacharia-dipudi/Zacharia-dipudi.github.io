@@ -138,9 +138,6 @@ At the end of the sprint, the team should review the selected tasks and record w
 
 ## 6. Reflection
 
-
-## 4. Reflection
-
 The sprint board helped me understand how the team divided the Laundry Pickup Pro project into smaller activities across 10 sprints. The project started with problem definition, team planning, competitor analysis, and feasibility activities before moving towards wireframes, Figma prototyping, screen design, testing, documentation, and deployment.
 
 As the UI/UX Designer, the activities involving low-fidelity wireframes, interactive Figma prototyping, prototype testing, prototype demonstration, and screen design are particularly relevant to my role.
