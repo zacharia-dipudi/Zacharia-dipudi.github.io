@@ -13,8 +13,6 @@ This sprint backlog outlines proposed tasks for improving and reviewing the cust
 
 ## 2. Sprint Backlog and Sprint Activities
 
-The Laundry Pickup Pro team used a Trello taskboard to organise and monitor project activities across 10 sprints. Each sprint contained specific tasks with assigned team members, dates, and checklist progress.
-
 ### Sprint 1 – Initial Project Planning
 
 | Task | Date | Checklist |
@@ -109,22 +107,8 @@ My responsibilities as the UI/UX Designer may include:
 - Capturing screenshots to document the interface.
 - Sharing design feedback with the team.
 
-The final list should reflect the responsibilities I actually performed during the project.
 
-## 4. Definition of Done
-
-A task may be considered complete when the relevant agreed work has been carried out and reviewed.
-
-For interface-related tasks, the team can use these checks:
-
-- The agreed screen or design has been reviewed.
-- Labels and navigation options are clear.
-- Relevant layout issues have been addressed or documented.
-- The result has been checked against the task's acceptance criteria.
-- Supporting evidence has been captured where appropriate.
-- The task's status has been updated accurately.
-
-## 5. Sprint Review
+## 4. Sprint Review
 
 At the end of the sprint, the team should review the selected tasks and record which were completed, which remain in progress, and which were not completed.
 
@@ -136,7 +120,7 @@ At the end of the sprint, the team should review the selected tasks and record w
 | Issues encountered | To be documented |
 | Improvements for the next sprint | To be documented |
 
-## 6. Reflection
+## 5. Reflection
 
 The sprint board helped me understand how the team divided the Laundry Pickup Pro project into smaller activities across 10 sprints. The project started with problem definition, team planning, competitor analysis, and feasibility activities before moving towards wireframes, Figma prototyping, screen design, testing, documentation, and deployment.
 
@@ -149,7 +133,7 @@ One important lesson was that tasks need to be monitored regularly. For example,
 Overall, using the sprint board made project activities more visible and helped the team organise its work throughout the development process.
 
 
-## 7. Evidence
+## 6. Evidence
 
 
 The following screenshots provide evidence of the team's sprint planning and progress across the project.
