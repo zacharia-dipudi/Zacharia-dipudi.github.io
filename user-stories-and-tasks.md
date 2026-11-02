@@ -192,9 +192,7 @@ I learned the importance of clear navigation, understandable labels, visible cos
 
 # Laundry Pickup Pro — Portfolio Evidence
 
-This folder contains visual evidence from the Laundry Pickup Pro application, developed to support the Agile project management e-portfolio for PRP372S.
-
-The screenshots document the customer journey, from opening the application to completing a laundry pickup booking. Each item includes a description of the interface and its relevance to the project.
+The screenshots document the customer journey, from opening the application to completing a laundry pickup booking. Each item includes a description of the interface.
 
 ## Evidence Index
 
