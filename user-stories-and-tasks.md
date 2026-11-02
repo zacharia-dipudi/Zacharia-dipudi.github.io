@@ -163,7 +163,6 @@ This section documents user stories and related tasks for Laundry Pickup Pro. Th
 
 ## 2. UI/UX Design Tasks
 
-The following tasks describe the design areas represented in the screenshots. They should be updated to reflect the work personally completed during the project.
 
 | Task | Purpose |
 |---|---|
